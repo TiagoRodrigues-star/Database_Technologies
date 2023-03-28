@@ -13,7 +13,7 @@ This repository encompasses the project developed for the Advanced Databases cou
 
 #### Professor: 
 - Márcia Barros
-
+lel
 
 ## Project definition
 This project focused on comparing a SQL and NoSQL database regarding data structure, querying, indexing and optimizations.
