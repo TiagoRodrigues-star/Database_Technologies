@@ -36,4 +36,3 @@ The data files were slighlty modified to homogenize their format.
 - Create indexes, optimize the queries and database schemas and compare performance results
 
 This project was developed using Python and the following libraries: Pandas, SQLite3 and PyMongo.
-a
