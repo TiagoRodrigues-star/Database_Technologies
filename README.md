@@ -1,4 +1,5 @@
-![imagem](https://user-images.githubusercontent.com/106987072/228199743-8abe56d0-0c55-41e5-b2e7-fd18b2b4b69e.png)
+![Ciencias_Logo_Azul-01](https://user-images.githubusercontent.com/106987072/228209396-a8737601-f28f-486e-8566-918709663369.png)
+
 
 # Database Technologies
 This repository encompasses the project developed for the Advanced Databases course, which aimed to compare the performance of SQL and NoSQL databases.
